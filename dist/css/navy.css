@@ -382,7 +382,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 
 .hljs-comment,
 .hljs-quote {
-  color: #998;
+  color: #727262;
   font-style: italic; }
 
 .hljs-keyword,
@@ -396,7 +396,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 .hljs-variable,
 .hljs-template-variable,
 .hljs-tag .hljs-attr {
-  color: #008080; }
+  color: #007e7e; }
 
 .hljs-string,
 .hljs-doctag {
@@ -1624,7 +1624,7 @@ h6 {
   display: block;
   padding-right: 0.5rem;
   padding-bottom: 0.25rem;
-  color: rgba(83, 83, 99, 0.75); }
+  color: rgba(112, 112, 124, 0); }
 
 .Meta-value {
   font: normal 0.875rem/1.71429 "Open Sans", Helvetica, Arial, sans-serif;
@@ -2124,7 +2124,7 @@ h6 {
   -webkit-padding-start: 1rem;
           padding-inline-start: 1rem;
   margin-bottom: 0.5rem;
-  color: rgba(83, 83, 99, 0.75); }
+  color: rgba(112, 112, 124, 0); }
   [dir="ltr"] .Tree-title {
     padding-left: 1rem; }
   [dir="rtl"] .Tree-title {
@@ -2152,7 +2152,7 @@ h6 {
           user-select: none;
   color: #535363; }
   .Tree-collectionLabel:hover {
-    background-color: rgba(83, 83, 99, 0.05); }
+    background-color: rgba(112, 112, 124, 0); }
   .Tree-collectionLabel span {
     -webkit-padding-start: 0.75rem;
             padding-inline-start: 0.75rem;

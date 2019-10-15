@@ -2,7 +2,7 @@
 <html lang="{{ frctl.theme.get('lang') | default('en') }}" dir="{{ 'rtl' if frctl.theme.get('rtl') else 'ltr' }}" class="no-js">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
     <script>
     window.frctl = {
         env: '{% if frctl.env.server %}server{% else %}static{% endif %}'
